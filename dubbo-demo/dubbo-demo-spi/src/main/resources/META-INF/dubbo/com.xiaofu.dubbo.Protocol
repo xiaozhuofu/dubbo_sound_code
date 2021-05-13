@@ -1,0 +1,2 @@
+dubbo=com.xiaofu.dubbo.impl.DubboProtocol
+rmi=com.xiaofu.dubbo.impl.RmiProtocol
